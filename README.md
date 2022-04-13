@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @universumthing
-- 👀 I’m interested in web 2.0, garment construction, japanese and middle eastern food, oolong tea, mental health advocacy, connecting people 
-- 🌱 I’m currently learning git, sewing, writing
-- 💞️ I’m looking to collaborate on my mobile app related to finding restarurants when you travel
-- 📫 How to reach me universumthing [at] gmail [dot] com
+- 👀 I’m interested in web 2.0, garment construction, food cooked with finesse (i.e. not by me), oolong tea, mental health advocacy, connecting people
+- 🌱 I’m currently learning git and sewing while establishing a habit of writing and taking more photographs
+- 📫 How to reach me hello [at] universumthing [dot] net
 
 <!---
 universumthing/universumthing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
